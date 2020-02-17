@@ -2,7 +2,14 @@ body {
     font-family: 'EB Garamond', serif;
 }
 
+.container {
+    width: 1151px;
+    margin: 0 auto;
+    padding: 0;
+}
+
 .text {
     font-size: 22px;
     line-height: 28px;
+    margin-bottom: 28px;
 }
